@@ -1,0 +1,110 @@
+h1 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: Helvetica;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+h3 {
+    font-weight: 300;
+}
+
+p {
+    font-weight: normal;
+    font-size: 15px;
+    font-family: Incosolata;
+}
+
+.colors {
+    border: 2px solid black; 
+}
+
+.colors p {
+    text-align: center;
+    font-weight: bold;
+}
+
+#orange {
+    background-color: #fca503;
+    display: inline-block;
+    width: 150px;
+    margin: 10px;
+}
+
+#green {
+    background-color: #81f08b;
+    display: inline-block;
+    width: 150px;
+    margin: 10px;
+}
+
+#purple {
+    background-color: #8728a1;
+    display: inline-block;
+    width: 150px;
+    margin: 10px;
+}
+
+#teal {
+    background-color: #69bbbf;
+    display: inline-block;
+    width: 150px;
+    margin: 10px;
+}
+
+.fonts {
+    border: 2px solid black;
+    margin: 10px 0px;
+}
+
+#helvetica {
+    font-family: Helvetica;
+
+}
+
+div #helvetica {
+    padding: 0px 20px;
+}
+
+#pacifico {
+    font-family: Pacifico;
+}
+
+div #pacifico {
+    padding: 0px 20px;
+}
+
+#incosolata {
+    font-family: Incosolata;
+}
+
+div #incosolata {
+    padding: 0px 20px;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.styles {
+    border: 2px solid black;
+}
+
+#figcaption {
+    font-weight: normal;
+    font-size: 12px;
+    font-family: Pacifico;
+}
